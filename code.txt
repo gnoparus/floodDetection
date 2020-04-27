@@ -1,3 +1,4 @@
+Void
 sky
 rice
 water
